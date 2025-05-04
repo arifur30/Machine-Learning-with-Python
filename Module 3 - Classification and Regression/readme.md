@@ -1,6 +1,4 @@
 
-
-```markdown
 # Supervised Machine Learning Models – IBM ML with Python (Coursera)
 
 This repository contains my learning notes, code, and exercises for the **Supervised Machine Learning Models** module from the **Machine Learning with Python** course by IBM on Coursera.
@@ -58,7 +56,15 @@ In this module, I explored the foundations and implementation of **modern superv
 - Pandas  
 - Matplotlib / Seaborn (for visualizations)
 
-
 ---
 
+
+
+## ✅ Status
+
+✔️ Module Completed  
+📅 Course: *Machine Learning with Python by IBM*  
+🏁 This repository is part of my journey to build strong foundational ML knowledge.
+
+---
 
